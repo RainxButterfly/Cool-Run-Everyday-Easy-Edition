@@ -1,0 +1,14 @@
+﻿D:\vs\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(项目1-天天酷跑-开发者：薛有炜.vcxproj, 项目学习1-天天酷跑.vcxproj, 项目练习1-天天酷跑.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  main.cpp
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(137,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(125,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(134,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(160,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(170,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(191,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(213,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(274,22): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(394,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(470,57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\main.cpp(532,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  项目学习1-天天酷跑.vcxproj -> D:\vs的工程文件\2023-11-24 C++\项目学习1-天天酷跑\x64\Debug\项目1-天天酷跑.exe
