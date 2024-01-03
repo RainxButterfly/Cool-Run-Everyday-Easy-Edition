@@ -12,3 +12,18 @@ C/C++， C语言为主
 
 技术：
 C语言程序设计
+
+# Project - Cool Run Every Day
+Cool Run Everyday Easy Edition
+Developers:
+Galaxy Yiye. Ck [Xue]
+
+Language: 
+C/C++, C language is the mainstay
+A couple of statements use C++
+
+Graphics Library:
+With easyX
+
+Technology:
+C programming
